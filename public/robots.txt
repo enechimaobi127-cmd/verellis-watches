@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://verellis-horology.example/sitemap.xml
